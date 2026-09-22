@@ -1,0 +1,9 @@
+{
+  "name": "kie-mcp-remote",
+  "private": true,
+  "engines": { "node": "22" },
+  "scripts": { "start": "node proxy.js" },
+  "dependencies": {
+    "@felores/kie-ai-mcp-server": "5.0.0"
+  }
+}
